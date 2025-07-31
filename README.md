@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Salvage-A
-- 👀 I’m an experienced Data Analyst with over 5 years of data visualizations, modelling, manipulating, statistical analysis and data architecture.
-- :D I have an in-depth knowledge of Advanced Excel, which includes and not limited to pivot table and chart, look-ups and formulas.
-- :S I am proficient in the use of SQL and PowerBi and use this in creating different story telling reports and dashboards.
-- 🌱 I’m currently learning Salesforce, with the intention of using it for data analytical purposes.
+
+# 👋 Hi, I'm Salvage Adeniyi
+
+🚀 **Data Analyst | Power BI & SQL Expert | Aspiring Data Scientist**
+
+With 5+ years, I transform complex data into clear, actionable insights for smarter decision-making. With strong expertise in SQL, Power BI, and Excel, I'm now expanding into the world of AI and Machine Learning.
+
+### 🔧 Tools & Skills
+- **Languages**: SQL, Python, DAX
+- **Tools**: Power BI, Excel, Salesforce, Jupyter, Git
+🌱- **Tech Interests**: Data Visualization, Data Quality, Data Analysis, AI, Machine Learning
+
 - 💞️ I’m looking to collaborate on any exciting data challenges.
-- 📫 How to reach me: Salvage.a@aol.co.uk
+
+### 📊 Recent Projects
+- 🏠 **Housing Services Dashboard** – Excel visuals from public housing datasets
+- 🧾 **Council Tax Recovery Insights** – SQL + Power BI for debt trend analysis
+- 📈 **Social Care KPI Tracker** – PowerBI dashboard with slicers and charts
+- 🔍 **Machine Learning Intro Project** – Linear regression on housing prices *(coming soon)*
+
+### 📫 Get in Touch
+- 🔗 [LinkedIn](https://www.linkedin.com/in/salvage-adeniyi-b2b90176?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 Email: Salvage.a@aol.co.uk
+
 
 <!---
 Salvage-A/Salvage-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
